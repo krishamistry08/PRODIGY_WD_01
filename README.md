@@ -35,7 +35,7 @@ How to Use
 Clone or Download the Repository to your local machine
 Open the folder in your preferred code editor
 Modify content as needed:
-Replace product images (<img src="...">)
+Replace product images
 Edit product names, prices, and descriptions
 Customize colors, layout, or add more sections
 Launch the site by opening the index.html file in any modern web browser
